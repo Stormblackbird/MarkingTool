@@ -1,0 +1,8 @@
+main: com.hex.Main
+name: Hex
+version: 1.0.1
+author: Stormblackbird
+description: Madhouse ride tech
+commands:
+  Hex:
+    description: Start hex.
